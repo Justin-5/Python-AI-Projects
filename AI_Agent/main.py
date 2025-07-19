@@ -1,3 +1,4 @@
+#https://platform.openai.com/chat #Add credit card to use the OpenAI API
 from langchain_core.messages import HumanMessage
 from langchain_openai import ChatOpenAI
 from langgraph.prebuilt import create_react_agent
